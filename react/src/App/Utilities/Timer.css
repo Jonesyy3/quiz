@@ -1,0 +1,15 @@
+.timer {
+  background-color: purple;
+  border-radius: 50%;
+  width: 10em;
+  height: 10em;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.timer > span {
+  color: white;
+  font-size: 6em;
+}
